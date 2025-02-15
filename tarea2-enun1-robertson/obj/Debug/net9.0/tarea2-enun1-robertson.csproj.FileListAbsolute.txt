@@ -1,0 +1,14 @@
+C:\Users\munoz\OneDrive\Documents\Proyectos C#\Procectos-Robertson\tarea2-enun1-robertson\bin\Debug\net9.0\tarea2-enun1-robertson.exe
+C:\Users\munoz\OneDrive\Documents\Proyectos C#\Procectos-Robertson\tarea2-enun1-robertson\bin\Debug\net9.0\tarea2-enun1-robertson.deps.json
+C:\Users\munoz\OneDrive\Documents\Proyectos C#\Procectos-Robertson\tarea2-enun1-robertson\bin\Debug\net9.0\tarea2-enun1-robertson.runtimeconfig.json
+C:\Users\munoz\OneDrive\Documents\Proyectos C#\Procectos-Robertson\tarea2-enun1-robertson\bin\Debug\net9.0\tarea2-enun1-robertson.dll
+C:\Users\munoz\OneDrive\Documents\Proyectos C#\Procectos-Robertson\tarea2-enun1-robertson\bin\Debug\net9.0\tarea2-enun1-robertson.pdb
+C:\Users\munoz\OneDrive\Documents\Proyectos C#\Procectos-Robertson\tarea2-enun1-robertson\obj\Debug\net9.0\tarea2-enun1-robertson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munoz\OneDrive\Documents\Proyectos C#\Procectos-Robertson\tarea2-enun1-robertson\obj\Debug\net9.0\tarea2-enun1-robertson.AssemblyInfoInputs.cache
+C:\Users\munoz\OneDrive\Documents\Proyectos C#\Procectos-Robertson\tarea2-enun1-robertson\obj\Debug\net9.0\tarea2-enun1-robertson.AssemblyInfo.cs
+C:\Users\munoz\OneDrive\Documents\Proyectos C#\Procectos-Robertson\tarea2-enun1-robertson\obj\Debug\net9.0\tarea2-enun1-robertson.csproj.CoreCompileInputs.cache
+C:\Users\munoz\OneDrive\Documents\Proyectos C#\Procectos-Robertson\tarea2-enun1-robertson\obj\Debug\net9.0\tarea2-enun1-robertson.dll
+C:\Users\munoz\OneDrive\Documents\Proyectos C#\Procectos-Robertson\tarea2-enun1-robertson\obj\Debug\net9.0\refint\tarea2-enun1-robertson.dll
+C:\Users\munoz\OneDrive\Documents\Proyectos C#\Procectos-Robertson\tarea2-enun1-robertson\obj\Debug\net9.0\tarea2-enun1-robertson.pdb
+C:\Users\munoz\OneDrive\Documents\Proyectos C#\Procectos-Robertson\tarea2-enun1-robertson\obj\Debug\net9.0\tarea2-enun1-robertson.genruntimeconfig.cache
+C:\Users\munoz\OneDrive\Documents\Proyectos C#\Procectos-Robertson\tarea2-enun1-robertson\obj\Debug\net9.0\ref\tarea2-enun1-robertson.dll

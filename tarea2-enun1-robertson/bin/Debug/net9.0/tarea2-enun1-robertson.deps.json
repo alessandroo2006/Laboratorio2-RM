@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "tarea2-enun1-robertson/1.0.0": {
+        "runtime": {
+          "tarea2-enun1-robertson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tarea2-enun1-robertson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
